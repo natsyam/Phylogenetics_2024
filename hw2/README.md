@@ -37,6 +37,7 @@ The COI-constructed tree differed from the one provided in the paper, which beca
 <img width="882" alt="Снимок экрана 2024-10-29 в 00 03 31" src="https://github.com/user-attachments/assets/ffd14935-af57-4c5f-a72a-be4afdbafa86">
 
 *Figure 2. Co-phylogenetic tanglegram. Left side is tree that was made in research paper, right side - my reconstruction*
+
 <img width="666" alt="Снимок экрана 2024-10-29 в 00 04 53" src="https://github.com/user-attachments/assets/bbac2e80-bb9f-4a0c-855b-0c7ed26c5032">
 
 ---
